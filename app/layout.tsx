@@ -17,26 +17,26 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Diseño Web Huánuco - Landing Pages que Convierten | Tu Negocio Online",
+  title: "Biztum Marketing - Landing Pages que Convierten | Tu Negocio Online",
   description:
-    "Especialista en diseño de landing pages para negocios en Huánuco. Aumenta tus ventas con páginas web profesionales integradas con WhatsApp. Marketing digital efectivo.",
+    "Especialistas en diseño de landing pages para negocios en Huánuco. Aumenta tus ventas con páginas web profesionales integradas con WhatsApp. Marketing digital efectivo.",
   keywords: "diseño web Huánuco, landing pages, marketing digital, páginas web, WhatsApp business, ventas online",
-  authors: [{ name: "Tu Nombre" }],
-  creator: "Tu Nombre",
-  publisher: "Diseño Web Huánuco",
+  authors: [{ name: "Oliver Modesto" }],
+  creator: "Oliver Modesto",
+  publisher: "Biztum Marketing",
   robots: "index, follow",
   openGraph: {
     type: "website",
     locale: "es_PE",
-    url: "https://tudominio.com",
-    title: "Diseño Web Huánuco - Landing Pages que Convierten",
+    url: "https://biztum.netlify.app/",
+    title: "Biztum Marketing - Landing Pages que Convierten",
     description:
       "Especialista en diseño de landing pages para negocios en Huánuco. Aumenta tus ventas con páginas web profesionales.",
-    siteName: "Diseño Web Huánuco",
+    siteName: "Biztum Marketing",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Diseño Web Huánuco - Landing Pages que Convierten",
+    title: "Biztum Marketing - Landing Pages que Convierten",
     description: "Especialista en diseño de landing pages para negocios en Huánuco.",
   },
   generator: "v0.app",

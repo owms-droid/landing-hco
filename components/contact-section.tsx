@@ -9,7 +9,7 @@ export function ContactSection() {
     const message = encodeURIComponent(
       "¡Hola! Quiero una consulta gratuita para mi negocio. Me interesa una landing page profesional que aumente mis ventas.",
     )
-    window.open(`https://wa.me/51987654321?text=${message}`, "_blank")
+    window.open(`https://wa.me/51955044084?text=${message}`, "_blank")
   }
 
   return (
@@ -36,21 +36,11 @@ export function ContactSection() {
               <CardContent className="space-y-6">
                 <div className="flex items-center gap-4">
                   <div className="p-2 bg-primary/10 rounded-full">
-                    <MessageCircle className="w-5 h-5 text-primary" />
-                  </div>
-                  <div>
-                    <p className="font-semibold text-card-foreground">WhatsApp</p>
-                    <p className="text-muted-foreground">+51 987 654 321</p>
-                  </div>
-                </div>
-
-                <div className="flex items-center gap-4">
-                  <div className="p-2 bg-primary/10 rounded-full">
                     <Mail className="w-5 h-5 text-primary" />
                   </div>
                   <div>
                     <p className="font-semibold text-card-foreground">Email</p>
-                    <p className="text-muted-foreground">contacto@tudominio.com</p>
+                    <p className="text-muted-foreground">biztum.marketing@gmail.com</p>
                   </div>
                 </div>
 
@@ -70,7 +60,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <p className="font-semibold text-card-foreground">Horario</p>
-                    <p className="text-muted-foreground">Lun - Sáb: 9:00 AM - 7:00 PM</p>
+                    <p className="text-muted-foreground">Lun - Vie: 9:00 AM - 7:00 PM</p>
                   </div>
                 </div>
               </CardContent>

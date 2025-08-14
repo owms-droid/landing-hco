@@ -8,7 +8,7 @@ export function HeroSection() {
     const message = encodeURIComponent(
       "¡Hola! Quiero transformar mi negocio online con una landing page profesional. ¿Podemos conversar?",
     )
-    window.open(`https://wa.me/51999999999?text=${message}`, "_blank")
+    window.open(`https://wa.me/51955044084?text=${message}`, "_blank")
   }
 
   return (
@@ -24,7 +24,7 @@ export function HeroSection() {
           {/* Badge - Better mobile sizing */}
           <div className="inline-flex items-center gap-2 bg-primary/10 text-primary px-3 py-1.5 md:px-4 md:py-2 rounded-full text-xs md:text-sm font-medium mb-6 md:mb-8 animate-fade-in">
             <Zap className="w-3 h-3 md:w-4 md:h-4" />
-            Especialista en Marketing Digital
+            Especialistas en Desarrollo Web & Marketing Digital
           </div>
 
           {/* Main Headline - Mobile-first typography */}
@@ -34,7 +34,7 @@ export function HeroSection() {
 
           {/* Subheadline - Better mobile readability */}
           <p className="font-serif text-lg sm:text-xl md:text-2xl text-muted-foreground mb-6 md:mb-8 max-w-3xl mx-auto leading-relaxed px-4">
-            Diseño landing pages profesionales que convierten visitantes en clientes para negocios en{" "}
+            Diseñamos landing pages profesionales que convierten visitantes en clientes para negocios en{" "}
             <span className="text-primary font-semibold">Huánuco</span>
           </p>
 

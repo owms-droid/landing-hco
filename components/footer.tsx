@@ -8,7 +8,7 @@ export function Footer() {
           {/* Brand */}
           <div>
             <h3 className="font-sans font-bold text-2xl mb-4">
-              Diseño Web <span className="text-primary">Huánuco</span>
+              Biztum Digital <span className="text-primary">Marketing</span>
             </h3>
             <p className="font-serif text-background/80 leading-relaxed">
               Especialistas en crear landing pages que convierten visitantes en clientes para negocios locales en
@@ -60,7 +60,7 @@ export function Footer() {
                 <Linkedin className="w-5 h-5" />
               </a>
               <a
-                href="mailto:contacto@tudominio.com"
+                href="mailto:biztum.marketing@gmail.com"
                 className="p-2 bg-primary/20 rounded-full hover:bg-primary/30 transition-all duration-300 transform hover:scale-110"
                 aria-label="Envíanos un email"
               >
@@ -75,7 +75,7 @@ export function Footer() {
 
         <div className="border-t border-background/20 mt-8 pt-8 text-center">
           <p className="font-serif text-background/60">
-            © 2025 Diseño Web Huánuco. Todos los derechos reservados. | Desarrollado con ❤️ para negocios locales
+            © 2025 Biztum Digital Marketing. Todos los derechos reservados. | Desarrollado con ❤️ para negocios locales.
           </p>
         </div>
       </div>
