@@ -31,13 +31,13 @@ export const metadata: Metadata = {
     url: "https://biztum.netlify.app/",
     title: "Biztum Marketing - Landing Pages que Convierten",
     description:
-      "Especialista en diseño de landing pages para negocios en Huánuco. Aumenta tus ventas con páginas web profesionales.",
+      "Especialistas en diseño de landing pages para negocios en Huánuco. Aumenta tus ventas con páginas web profesionales.",
     siteName: "Biztum Marketing",
   },
   twitter: {
     card: "summary_large_image",
     title: "Biztum Marketing - Landing Pages que Convierten",
-    description: "Especialista en diseño de landing pages para negocios en Huánuco.",
+    description: "Especialistas en diseño de landing pages para negocios en Huánuco.",
   },
   generator: "v0.app",
 }

@@ -7,39 +7,39 @@ const services = [
     icon: Globe,
     title: "Landing Pages Profesionales",
     description:
-      "Diseño páginas web optimizadas para convertir visitantes en clientes, con diseño responsive y carga rápida.",
-    image: "/placeholder.svg?height=200&width=300",
+      "Diseñamos páginas web optimizadas para convertir visitantes en clientes, con diseño responsive y carga rápida.",
+    image: "/landing-page-service.webp?height=200&width=300",
   },
   {
     icon: MessageSquare,
     title: "Integración WhatsApp Business",
     description:
       "Conecta directamente con tus clientes a través de WhatsApp para generar más ventas y brindar mejor atención.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/integration-whatsapp-service.webp?height=200&width=300",
   },
   {
     icon: TrendingUp,
     title: "Marketing Digital Estratégico",
     description: "Estrategias personalizadas para hacer crecer tu negocio online y alcanzar a más clientes en Huánuco.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/marketing-digital-service.webp?height=200&width=300",
   },
   {
     icon: Smartphone,
     title: "Diseño Mobile-First",
     description: "Todas las páginas están optimizadas para móviles, donde la mayoría de tus clientes navegan.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/mobile-first-service.webp?height=200&width=300",
   },
   {
     icon: Search,
     title: "SEO Local Huánuco",
     description: "Optimización para que tu negocio aparezca primero cuando busquen tus servicios en Huánuco.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/seo-service.webp?height=200&width=300",
   },
   {
     icon: BarChart3,
     title: "Análisis y Reportes",
     description: "Monitoreo constante del rendimiento de tu página para maximizar los resultados.",
-    image: "/placeholder.svg?height=200&width=300",
+    image: "/analitica-service.webp?height=200&width=300",
   },
 ]
 
@@ -52,7 +52,7 @@ export function ServicesSection() {
             Servicios que <span className="text-primary">Impulsan</span> tu Negocio
           </h2>
           <p className="font-serif text-base md:text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed px-4">
-            Soluciones completas de diseño web y marketing digital especializadas para negocios locales en Huánuco
+            Soluciones completas de desarrollo web y marketing digital especializadas para negocios locales en Huánuco
           </p>
         </div>
 

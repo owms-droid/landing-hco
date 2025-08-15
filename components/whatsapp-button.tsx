@@ -12,7 +12,7 @@ export function WhatsAppButton({ position }: WhatsAppButtonProps) {
     const message = encodeURIComponent(
       "¡Hola! Me interesa conocer más sobre tus servicios de diseño web y marketing digital para mi negocio en Huánuco.",
     )
-    window.open(`https://wa.me/51987654321?text=${message}`, "_blank")
+    window.open(`https://wa.me/51955044084?text=${message}`, "_blank")
   }
 
   if (position === "top") {
