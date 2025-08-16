@@ -51,7 +51,7 @@ export function Footer() {
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="https://linkedin.com/company/tuempresa"
+                href="https://www.linkedin.com/in/oliver-modesto/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-primary/20 rounded-full hover:bg-primary/30 transition-all duration-300 transform hover:scale-110"
