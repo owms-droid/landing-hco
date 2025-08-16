@@ -33,7 +33,7 @@ export function Footer() {
             <h4 className="font-sans font-semibold text-lg mb-4">Síguenos</h4>
             <div className="flex gap-4">
               <a
-                href="https://facebook.com/tuempresa"
+                href="https://web.facebook.com/profile.php?id=61579274706542"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-primary/20 rounded-full hover:bg-primary/30 transition-all duration-300 transform hover:scale-110"
@@ -42,7 +42,7 @@ export function Footer() {
                 <Facebook className="w-5 h-5" />
               </a>
               <a
-                href="https://instagram.com/tuempresa"
+                href="https://www.instagram.com/biztum.marketing/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 bg-primary/20 rounded-full hover:bg-primary/30 transition-all duration-300 transform hover:scale-110"
